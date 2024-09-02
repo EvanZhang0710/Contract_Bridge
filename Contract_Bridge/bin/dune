@@ -1,0 +1,3 @@
+(executable
+ (name main)
+ (libraries Contract_Bridge))

@@ -1,0 +1,31 @@
+---
+# Members of your group.
+group:
+  - name: Andy Li
+    netid: sl2535
+  - name: Yilun Yin 
+    netid: yy958
+  - name: Yiwen (Evan) Zhang
+    netid: yz864
+# Your PM.
+pm:
+  name: Tony Mao
+  netid: twm59
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "Contract Bridge Simulator"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/yy958/PROJECT_APC"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  Dive into the strategic depths of Contract Bridge with our advanced simulator, 
+  meticulously designed for human-AI interactions, where you can bid and play, win 
+  against the  AI or lose to it, and even know your performance scores at the end. 
+  Besides, you will be equipped with an AI partner like in a real Bridge game. 
+  Our simulator features an intuitive interface for seamless navigation, complemented 
+  by a sleek and modern design that elevates your overall gaming experience. 
+  This simulator is more than just a game; it's a comprehensive bridge experience 
+  that offers you the opportunity to hone your skills and test your strategies.

@@ -1,0 +1,15 @@
+Installation process:
+
+1. Download the zip file
+
+2. Unzip the file
+
+3. Go into root directory of the unzipped file
+
+4. Open the file by entering "make code" in console
+
+5. Shut down all running dune 
+
+6. Enter "make game" in console with the project directory
+
+7. Enjoy the game!
